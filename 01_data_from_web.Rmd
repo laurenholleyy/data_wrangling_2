@@ -1,0 +1,10 @@
+---
+title: "Data from the Web"
+author: "Lauren Holley"
+date: 2026-10-15
+output: github_document
+---
+
+```{r}
+library(tidyverse)
+```
